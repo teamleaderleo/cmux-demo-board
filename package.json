@@ -5,7 +5,7 @@
   "description": "A tiny board for trying coding agents in cmux.",
   "type": "module",
   "scripts": {
-    "test": "node --test test/",
+    "test": "node --test",
     "start": "python3 -m http.server 4173"
   },
   "license": "MIT"
